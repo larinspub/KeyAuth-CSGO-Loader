@@ -1,2 +1,4 @@
 # KeyAuth-CSGO-Loader
-KeyAuth CS:GO Loader
+Build: x86 Release
+x86 Libs: https://x86libs.netlify.app/libs.zip
+Discord: batu?#1337
